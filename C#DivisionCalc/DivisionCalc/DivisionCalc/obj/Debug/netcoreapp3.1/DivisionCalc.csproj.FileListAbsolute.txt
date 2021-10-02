@@ -1,0 +1,14 @@
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\bin\Debug\netcoreapp3.1\DivisionCalc.exe
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\bin\Debug\netcoreapp3.1\DivisionCalc.deps.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\bin\Debug\netcoreapp3.1\DivisionCalc.runtimeconfig.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\bin\Debug\netcoreapp3.1\DivisionCalc.runtimeconfig.dev.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\bin\Debug\netcoreapp3.1\DivisionCalc.dll
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\bin\Debug\netcoreapp3.1\DivisionCalc.pdb
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.csproj.AssemblyReference.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.AssemblyInfoInputs.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.AssemblyInfo.cs
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.csproj.CoreCompileInputs.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.dll
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.pdb
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#DivisionCalc\DivisionCalc\DivisionCalc\obj\Debug\netcoreapp3.1\DivisionCalc.genruntimeconfig.cache
